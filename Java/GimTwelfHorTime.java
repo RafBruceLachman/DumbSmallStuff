@@ -22,7 +22,7 @@ public class GimTwelfHorTime{
 			System.out.println(notHour.getMessage());
 		}catch(ArrayIndexOutOfBoundsException noargument){
 			System.out.println("NO HOUR AND/OR MINUTES GIVEN!!!");
-			System.out.println("pass two numbers, please [hours minutes]");
+			System.out.println("pass two numbers, please! [hours minutes]");
 		}
 	};
 
